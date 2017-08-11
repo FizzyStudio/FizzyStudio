@@ -6,6 +6,10 @@
 
 ### Product Manual
 
-##### SEN Series
+#### SEN Series
 
+* [SENI001-Moisture-Sensor](https://github.com/FizzyStudio/SENI001-Moisture-Sensor)
+* [SENZ001-Rotation-Sensor](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor)
+* [SENZ002_Analog-Piezo-Disk-Vibration-Sensor](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor)
+* [SENZ003-JoyStick](https://github.com/FizzyStudio/SENZ003-JoyStick)
 

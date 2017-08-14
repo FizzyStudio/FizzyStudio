@@ -12,4 +12,5 @@
 * [SENZ001-Rotation-Sensor](https://github.com/FizzyStudio/SENZ001-Rotation-Sensor)
 * [SENZ002_Analog-Piezo-Disk-Vibration-Sensor](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor)
 * [SENZ003-JoyStick](https://github.com/FizzyStudio/SENZ003-JoyStick)
+* [SENZ005-Digital-Vibration-Sensor](https://github.com/FizzyStudio/SENZ005-Digital-Vibration-Sensor)
 
